@@ -1,5 +1,5 @@
 # "Open Science in Practice"
-Workshop at SBMS 2024, June 6-7, Olten, Switzerland
+Workshop at the 10th Swiss Bone Mineral Society (SBMS) Summer School, June 6-7 2024, Olten, Switzerland
 
 Material to reproduce Fig.8 from the paper *Orellana et al. 2024. **Revealing the complexity of meniscus 
 microvasculature through 3D visualization and analysis***
