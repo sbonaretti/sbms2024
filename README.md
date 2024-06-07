@@ -11,4 +11,4 @@ https://doi.org/10.1038/s41598-024-61497-2
 
 Data and introductory presentation are on Zenodo at: https://zenodo.org/doi/10.5281/zenodo.11491109
 
-*Note:* To do: The data corresponds to 6 plausible observations. According to the paper, there should be 3 observations
+*Note:* The data corresponds to 6 plausible observations. According to the paper, there should be 3 observations
